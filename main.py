@@ -40,7 +40,7 @@ def elfbar(message,elfbar_name):
     markup.row_width = 2
     item1 = types.InlineKeyboardButton('😋 GUSTURI',callback_data=f'{elfbar_name}g')
     item2 = types.InlineKeyboardButton('🤑 PREȚ',callback_data=f'{elfbar_name}p')
-    item3 = types.InlineKeyboardButton('🧐 GUSTURI DISPONIBILE',callback_data=f'{elfbar_name}gd')
+    item3 = types.InlineKeyboardButton('✅ GUSTURI DISPONIBILE',callback_data=f'{elfbar_name}gd')
 
     photo = elfbar_photo(elfbar_name)
     markup.add(item1,item2,item3)
