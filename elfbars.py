@@ -37,7 +37,7 @@ class ELFBAR2000LUX:
 
     gusturi = 'Toate gusturile:\n\n➖ Cola\n➖ Red, Mojito\n➖ Kiwi, Passion Fruit, Guava\n➖ Pineapple, Mango, Orange\n'
 
-    gusturi_disponibile = 'Gusturi Disponibile:\n\nElfbar 2000 Classic:\n\n✅➖ 🥭Peach, Mango, Guava\n✅➖ 🍌Banana, Milk\n\nElfbar 2000 Lux: \n\n✅➖ 🍍Pineapple, Mango, Orange x2\n✅➖ 🥝Kiwi,Passion Fruit,Guava'
+    gusturi_disponibile = 'Gusturi Disponibile:\n\nElfbar 2000 Classic:\n\n✅➖ 🥭Peach, Mango, Guava\n✅➖ 🍌Banana, Milk\n\nElfbar 2000 Lux: \n\n✅➖ 🍍Pineapple, Mango, Orange\n✅➖ 🥝Kiwi,Passion Fruit,Guava'
 
 class ELFBAR1500LUX:
     name = 'ELFBAR 1500 LUX'
@@ -46,7 +46,7 @@ class ELFBAR1500LUX:
 
     gusturi = 'Toate gusturile:\n\n➖ Banana, Ice\n➖ Banana, Milk\n➖ Blue Razz, Lemonade\n➖ Blueberry\n➖ Coffee, Tobacco\n➖ Grape, Energy\n➖ Grape\n➖ Kiwi, Passion Fruit, Guava\n➖ Mango\n➖ Mango, Peach, Watermelon\n➖ Peach, Mango, Guava\n➖ Pineapple, Peach, Mango\n➖ Pink, Lemonade\n➖ Sour Apple\n➖ Strawberry, Banana\n➖ Strawberry, Energy\n➖ Strawberry, Grape\n➖ Watermelon\n'
 
-    gusturi_disponibile = 'Gusturi Disponibile:\n\nElfbar 1500 Lux:\n\n✅➖🍇Grape\n✅➖🍍Pineapple,Peach,Mango\n✅➖🍓Strawberry, Energy\n✅➖🥭Mango, Peach, Watermelon\n✅➖🍑Peach, Mango, Guava\n\nElfbar 1500 Classic:\n✅➖🥤Cola'
+    gusturi_disponibile = 'Gusturi Disponibile:\n\nElfbar 1500 Lux:\n\n✅➖🍇Grape\n✅➖🍍Pineapple,Peach,Mango\n✅➖🍓Strawberry, Energy\n✅➖🥭Mango, Peach, Watermelon\n✅➖🍑Peach, Mango, Guava\n\nElfbar 1500 Classic:\n\n✅➖🥤Cola'
 
 
 
