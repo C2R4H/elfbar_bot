@@ -8,7 +8,7 @@ class ELFBARBC5000ULTRA:
 
     gusturi = 'Toate gusturile:\n\n➖Blue cotton,Candy\n➖Blue razz,Ice\n➖Dragon fruit,Banana,Berry\n➖Grape honeydew\n➖Kiwi,Dragon fruit,Berry\n➖Kiwi,Passion Fruit,Guava\n➖Mint\n➖Orenge,Soda\n➖Strawberry,Watermelon,Bubble gum\n➖Tobacco\n➖Tropical rainbow\n➖Watermelon,Ice'
 
-    gusturi_disponibile = 'Gusturi Disponibile:\n\n✅➖ Blue Cotton,Candy❄️\n✅➖ Watermelon Ice 🍉❄️'
+    gusturi_disponibile = 'Gusturi Disponibile:\n\n✅➖ Blue Cotton,Candy❄️'
 
     photo = open('photo/BC5000ULTRA.png','br')
 
